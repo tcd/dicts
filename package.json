@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "dicts",
+  "version": "0.0.0",
+  "description": "Dictionary files and other related stuffs.",
+  "author": "Clay Dunston <dunstontc@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcd/dicts.git"
+  }
+}
